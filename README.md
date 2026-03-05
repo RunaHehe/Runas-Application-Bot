@@ -1,7 +1,5 @@
-[!IMPORTANT
+[!IMPORTANT]
 All the instructions are inside of index.js
-]
 
-[!WARNING
+[!WARNING]
 I vibecoded this entire thing, it might be buggy :p
-]
